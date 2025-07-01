@@ -1,0 +1,13 @@
+# Ignore environment folders and files with secrets
+.env
+venv/
+__pycache__/
+
+# Ignore Python cache and compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore system files
+.DS_Store
+Thumbs.dbgit
